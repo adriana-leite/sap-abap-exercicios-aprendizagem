@@ -6,4 +6,3 @@
 * Addition
 * Statement Chaining
 * Prettz Printer
-* Transaction Codes
