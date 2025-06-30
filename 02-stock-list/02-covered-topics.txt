@@ -1,0 +1,9 @@
+* WRITE horizontal & vertical lines
+* WRITE at a specific location
+* WRITE a new line
+* DATA - integer (variables)
+* DO - repeat anything
+* Addition
+* Statement Chaining
+* Prettz Printer
+* Transaction Codes
