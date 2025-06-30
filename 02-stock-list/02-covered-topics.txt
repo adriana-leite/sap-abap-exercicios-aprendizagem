@@ -5,4 +5,4 @@
 * DO - repeat anything
 * Addition
 * Statement Chaining
-* Prettz Printer
+* Pretty Printer
