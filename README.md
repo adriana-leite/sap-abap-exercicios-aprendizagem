@@ -1,2 +1,2 @@
-# sap-abap-portfolio
-Exercícios e projetos pessoais em ABAP
+# sap-abap-exercicios-aprendizagem
+Exercícios de aprendizagem em ABAP
