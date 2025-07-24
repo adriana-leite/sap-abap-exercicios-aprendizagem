@@ -1,0 +1,1 @@
+DATA ld_media(12) TYPE p DECIMALS 2.
